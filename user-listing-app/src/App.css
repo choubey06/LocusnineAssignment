@@ -1,0 +1,53 @@
+
+.App {
+  background-color: #3f4342;
+  min-height: 100vh;
+  color: white
+}
+#appBody{
+  background-color: white;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+  padding-bottom: 30px;
+}
+.header{
+  color: black;
+  padding-top: 20px;
+  width: 100%;
+  display:flex
+}
+#user{
+  margin-left: 10px;
+  font-size: 20px;
+  flex-grow: 5;
+}
+#searchbox{
+  padding-left: 50%;
+  padding-right: 30px;
+  flex-grow: 2;
+}
+#add_button{
+  align-items: right;
+  color: white;
+}
+Row{
+  width: 100%;
+  float: right;
+}
+.radio-group{
+  display:flex;
+  width:60%;
+  margin-bottom: 10px;
+}
+.closeButton{
+  float: right;
+}
+h2{
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+
+
